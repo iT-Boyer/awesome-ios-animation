@@ -2,6 +2,8 @@
 
 A curated list of awesome iOS animation, including Objective-C and Swift libraries
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 > 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
 
 > 排名先后顺序按个人喜好，不代表大众意愿。望见谅！
